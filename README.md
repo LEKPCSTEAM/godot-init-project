@@ -1,3 +1,7 @@
+# Godot POS Project Structure Generator
+
+Generate a ready-to-use folder structure for your [Godot Engine](https://godotengine.org/) POS (Point of Sale) project.
+
 
 ## Usage
 ### Save as init_godot_pos.sh
